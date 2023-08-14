@@ -1,0 +1,1150 @@
+Ralof::  this word occured 11 times
+    Ralof: Hey, you. You're finally awake. You were trying to cross the border,
+    Ralof: We're all brothers and sisters in binds now, thief.
+    Ralof: Watch your tongue! You're speaking to Ulfric Stormcloak, the true High
+    Ralof: I don't know where we're going, but Sovngarde awaits.
+    Ralof: Hey, what village are you from, horse thief?
+    Ralof: A Nord's last thoughts should be of home.
+    Ralof: Look at him, General Tullius the Military Governor. And it looks like
+    Ralof: Why do you think? End of the line. Let's go. Shouldn't keep the gods
+    Ralof: Face your death with some courage, thief.
+    Ralof: Empire loves their damn lists.
+    Ralof: It has been an honor, Jarl Ulfric!
+
+Hey,:  this word occured 2 times
+    Hey, you. You're finally awake. You were trying to cross the border,
+    Hey, what village are you from, horse thief?
+
+you.:  this word occured 1 times
+    you. You're finally awake. You were trying to cross the border,
+
+You're:  this word occured 4 times
+    You're finally awake. You were trying to cross the border,
+    You're speaking to Ulfric Stormcloak, the true High
+    You're the leader of the rebellion. But if
+    You're not going to kill me!
+
+finally:  this word occured 1 times
+    finally awake. You were trying to cross the border,
+
+awake.:  this word occured 1 times
+    awake. You were trying to cross the border,
+
+You:  this word occured 5 times
+    You were trying to cross the border,
+    You there. You and me -- we
+    You and me -- we
+    You need to go inside, little cub.
+    You can't do this!
+
+were:  this word occured 1 times
+    were trying to cross the border,
+
+trying:  this word occured 1 times
+    trying to cross the border,
+
+to:  this word occured 11 times
+    to cross the border,
+    to Hammerfell. You there. You and me -- we
+    to Ulfric Stormcloak, the true High
+    to the lead wagon.]
+    to do
+    to be sweet on a girl from here. Wonder if Vilod
+    to make me feel so safe.
+    to go inside, little cub.
+    to watch the soldiers.
+    to tell them! We weren't with you! This is a mistake!
+    to kill me!
+
+cross:  this word occured 1 times
+    cross the border,
+
+the:  this word occured 19 times
+    the border,
+    the Empire wants.
+    the gagged man.]
+    the true High
+    the leader of the rebellion. But if
+    the rebellion. But if
+    the village of Helgen. A soldier calls out to the lead wagon.]
+    the lead wagon.]
+    the Military Governor. And it looks like
+    the Thalmor are with him. Damn elves. I bet they had something to do
+    the prisoners pull into town.]
+    the soldiers.
+    the house. Now.
+    the chopping block.]
+    the line. Let's go. Shouldn't keep the gods
+    the gods
+    the Imperials' watchful eye, the prisoners start jumping out.]
+    the prisoners start jumping out.]
+    the block when we call your name. One at a time!
+
+border,:  this word occured 1 times
+    border,
+
+right?:  this word occured 1 times
+    right? Walked right into that Imperial ambush, same as us, and that
+
+Walked:  this word occured 1 times
+    Walked right into that Imperial ambush, same as us, and that
+
+right:  this word occured 1 times
+    right into that Imperial ambush, same as us, and that
+
+into:  this word occured 2 times
+    into that Imperial ambush, same as us, and that
+    into town.]
+
+that:  this word occured 4 times
+    that Imperial ambush, same as us, and that
+     that
+    that horse and been half way to Hammerfell. You there. You and me -- we
+    that mead with juniper berries mixed in. Funny...when I
+
+Imperial:  this word occured 9 times
+    Imperial ambush, same as us, and that
+    Imperial Soldier: Shut up back there!
+    Imperial Soldier: General Tullius, sir! The headsman is waiting!
+    Imperial walls and towers used to make me feel so safe.
+    Imperial Soldier: Whoa.
+    Imperial Captain: Step toward the block when we call your name. One at a time!
+    Imperial Captain: Halt!
+    Imperial Captain: Archers!
+    Imperial Captain: Anyone else feel like running?
+
+ambush,:  this word occured 1 times
+    ambush, same as us, and that
+
+same:  this word occured 1 times
+    same as us, and that
+
+as:  this word occured 1 times
+    as us, and that
+
+us,:  this word occured 1 times
+    us, and that
+
+thief:  this word occured 1 times
+    thief over there.
+
+over:  this word occured 2 times
+    over there.
+    over with.
+
+there.:  this word occured 3 times
+    there.
+    there. You and me -- we
+    there. Step forward. Who are you?
+
+Lokir::  this word occured 12 times
+    Lokir: Damn you Stormcloaks. Skyrim was fine until you came along. Empire was
+    Lokir: And what's wrong with him?
+    Lokir: Ulfric? The Jarl of Windhelm? You're the leader of the rebellion. But if
+    Lokir: No, this can't be happening. This isn't happening.
+    Lokir: Why do you care?
+    Lokir: Rorikstead. I'm...I'm from Rorikstead.
+    Lokir: Shor, Mara, Dibella, Kynareth, Akatosh. Divines, please help me.
+    Lokir: Why are they stopping?
+    Lokir: No! Wait! We're not rebels!
+    Lokir: You've got to tell them! We weren't with you! This is a mistake!
+    Lokir: No, I'm not a rebel! You can't do this!
+    Lokir: You're not going to kill me!
+
+Damn:  this word occured 2 times
+    Damn you Stormcloaks. Skyrim was fine until you came along. Empire was
+    Damn elves. I bet they had something to do
+
+you:  this word occured 6 times
+    you Stormcloaks. Skyrim was fine until you came along. Empire was
+    you came along. Empire was
+    you from, horse thief?
+    you care?
+    you think? End of the line. Let's go. Shouldn't keep the gods
+    you there. Step forward. Who are you?
+
+Stormcloaks.:  this word occured 1 times
+    Stormcloaks. Skyrim was fine until you came along. Empire was
+
+Skyrim:  this word occured 1 times
+    Skyrim was fine until you came along. Empire was
+
+was:  this word occured 3 times
+    was fine until you came along. Empire was
+    was
+    was a boy, Imperial walls and towers used to make me feel so safe.
+
+fine:  this word occured 1 times
+    fine until you came along. Empire was
+
+until:  this word occured 1 times
+    until you came along. Empire was
+
+came:  this word occured 1 times
+    came along. Empire was
+
+along.:  this word occured 1 times
+    along. Empire was
+
+Empire:  this word occured 3 times
+    Empire was
+    Empire wants.
+    Empire loves their damn lists.
+
+nice:  this word occured 1 times
+    nice and lazy. If they hadn't been looking for you, I could've stolen
+
+lazy.:  this word occured 1 times
+     lazy. If they hadn't been looking for you, I could've stolen
+
+If:  this word occured 1 times
+    If they hadn't been looking for you, I could've stolen
+
+they:  this word occured 6 times
+    they hadn't been looking for you, I could've stolen
+    they captured you... Oh gods, where are they taking us?
+    they taking us?
+    they had something to do
+    they going?
+    they stopping?
+
+hadn't:  this word occured 1 times
+    hadn't been looking for you, I could've stolen
+
+been:  this word occured 3 times
+    been looking for you, I could've stolen
+     been half way to Hammerfell. You there. You and me -- we
+    been an honor, Jarl Ulfric!
+
+looking:  this word occured 1 times
+    looking for you, I could've stolen
+
+for:  this word occured 3 times
+    for you, I could've stolen
+    for us.
+    for it.]
+
+you,:  this word occured 1 times
+    you, I could've stolen
+
+I:  this word occured 6 times
+    I could've stolen
+    I don't know where we're going, but Sovngarde awaits.
+    I bet they had something to do
+    I used to be sweet on a girl from here. Wonder if Vilod
+    I
+    I want to watch the soldiers.
+
+could've:  this word occured 1 times
+    could've stolen
+
+stolen:  this word occured 1 times
+    stolen
+
+horse:  this word occured 2 times
+    horse and been half way to Hammerfell. You there. You and me -- we
+    horse thief?
+
+half:  this word occured 1 times
+    half way to Hammerfell. You there. You and me -- we
+
+way:  this word occured 1 times
+    way to Hammerfell. You there. You and me -- we
+
+Hammerfell.:  this word occured 1 times
+    Hammerfell. You there. You and me -- we
+
+me:  this word occured 2 times
+     me -- we
+    me feel so safe.
+
+--:  this word occured 1 times
+    -- we
+
+we:  this word occured 2 times
+    we
+    we call your name. One at a time!
+
+should:  this word occured 2 times
+    should be here. It's these Stormcloaks the Empire wants.
+    should be of home.
+
+be:  this word occured 4 times
+    be here. It's these Stormcloaks the Empire wants.
+    be happening. This isn't happening.
+    be of home.
+    be sweet on a girl from here. Wonder if Vilod
+
+here.:  this word occured 2 times
+    here. It's these Stormcloaks the Empire wants.
+    here. Wonder if Vilod
+
+It's:  this word occured 1 times
+    It's these Stormcloaks the Empire wants.
+
+these:  this word occured 1 times
+    these Stormcloaks the Empire wants.
+
+Stormcloaks:  this word occured 1 times
+    Stormcloaks the Empire wants.
+
+wants.:  this word occured 1 times
+    wants.
+
+We're:  this word occured 2 times
+    We're all brothers and sisters in binds now, thief.
+    We're not rebels!
+
+all:  this word occured 1 times
+    all brothers and sisters in binds now, thief.
+
+brothers:  this word occured 1 times
+    brothers and sisters in binds now, thief.
+
+sisters:  this word occured 1 times
+     sisters in binds now, thief.
+
+in:  this word occured 1 times
+    in binds now, thief.
+
+binds:  this word occured 1 times
+    binds now, thief.
+
+now,:  this word occured 1 times
+    now, thief.
+
+thief.:  this word occured 2 times
+    thief.
+    thief.
+
+Soldier::  this word occured 3 times
+    Soldier: Shut up back there!
+    Soldier: General Tullius, sir! The headsman is waiting!
+    Soldier: Whoa.
+
+Shut:  this word occured 1 times
+    Shut up back there!
+
+up:  this word occured 1 times
+    up back there!
+
+back:  this word occured 1 times
+    back there!
+
+there!:  this word occured 1 times
+    there!
+
+[Lokir:  this word occured 2 times
+    [Lokir looks at the gagged man.]
+    [Lokir is downed with one bowshot.]
+
+looks:  this word occured 2 times
+    looks at the gagged man.]
+    looks like
+
+at:  this word occured 3 times
+    at the gagged man.]
+    at him, General Tullius the Military Governor. And it looks like
+    at a time!
+
+gagged:  this word occured 1 times
+    gagged man.]
+
+man.]:  this word occured 1 times
+    man.]
+
+And:  this word occured 2 times
+    And what's wrong with him?
+    And it looks like
+
+what's:  this word occured 1 times
+    what's wrong with him?
+
+wrong:  this word occured 1 times
+    wrong with him?
+
+with:  this word occured 7 times
+    with him?
+    with him. Damn elves. I bet they had something to do
+    with this. This is Helgen. I used to be sweet on a girl from here. Wonder if Vilod
+    with juniper berries mixed in. Funny...when I
+    with some courage, thief.
+    with you! This is a mistake!
+    with one bowshot.]
+
+him?:  this word occured 1 times
+    him?
+
+Watch:  this word occured 1 times
+    Watch your tongue! You're speaking to Ulfric Stormcloak, the true High
+
+your:  this word occured 3 times
+    your tongue! You're speaking to Ulfric Stormcloak, the true High
+    your death with some courage, thief.
+    your name. One at a time!
+
+tongue!:  this word occured 1 times
+    tongue! You're speaking to Ulfric Stormcloak, the true High
+
+speaking:  this word occured 1 times
+    speaking to Ulfric Stormcloak, the true High
+
+Ulfric:  this word occured 2 times
+    Ulfric Stormcloak, the true High
+    Ulfric Stormcloak. Jarl of Windhelm.
+
+Stormcloak,:  this word occured 1 times
+    Stormcloak, the true High
+
+true:  this word occured 1 times
+    true High
+
+High:  this word occured 1 times
+    High
+
+King.:  this word occured 1 times
+    King.
+
+Ulfric?:  this word occured 1 times
+    Ulfric? The Jarl of Windhelm? You're the leader of the rebellion. But if
+
+The:  this word occured 2 times
+    The Jarl of Windhelm? You're the leader of the rebellion. But if
+    The headsman is waiting!
+
+Jarl:  this word occured 3 times
+    Jarl of Windhelm? You're the leader of the rebellion. But if
+    Jarl of Windhelm.
+    Jarl Ulfric!
+
+of:  this word occured 8 times
+    of Windhelm? You're the leader of the rebellion. But if
+    of the rebellion. But if
+    of home.
+    of Helgen. A soldier calls out to the lead wagon.]
+    of the line. Let's go. Shouldn't keep the gods
+    of Windhelm.
+    of Riverwood. Lokir of Rorikstead.
+    of Rorikstead.
+
+Windhelm?:  this word occured 1 times
+    Windhelm? You're the leader of the rebellion. But if
+
+leader:  this word occured 1 times
+    leader of the rebellion. But if
+
+rebellion.:  this word occured 1 times
+    rebellion. But if
+
+But:  this word occured 1 times
+    But if
+
+if:  this word occured 2 times
+    if
+    if Vilod
+
+captured:  this word occured 1 times
+    captured you... Oh gods, where are they taking us?
+
+you...:  this word occured 1 times
+    you... Oh gods, where are they taking us?
+
+Oh:  this word occured 1 times
+    Oh gods, where are they taking us?
+
+gods,:  this word occured 1 times
+    gods, where are they taking us?
+
+where:  this word occured 2 times
+    where are they taking us?
+    where we're going, but Sovngarde awaits.
+
+are:  this word occured 7 times
+    are they taking us?
+    are you from, horse thief?
+    are with him. Damn elves. I bet they had something to do
+    are they, daddy? Where are they going?
+    are they going?
+    are they stopping?
+    are you?
+
+taking:  this word occured 1 times
+    taking us?
+
+us?:  this word occured 1 times
+    us?
+
+don't:  this word occured 1 times
+    don't know where we're going, but Sovngarde awaits.
+
+know:  this word occured 1 times
+    know where we're going, but Sovngarde awaits.
+
+we're:  this word occured 1 times
+    we're going, but Sovngarde awaits.
+
+going,:  this word occured 1 times
+    going, but Sovngarde awaits.
+
+but:  this word occured 1 times
+    but Sovngarde awaits.
+
+Sovngarde:  this word occured 1 times
+    Sovngarde awaits.
+
+awaits.:  this word occured 1 times
+    awaits.
+
+No,:  this word occured 2 times
+    No, this can't be happening. This isn't happening.
+    No, I'm not a rebel! You can't do this!
+
+this:  this word occured 2 times
+    this can't be happening. This isn't happening.
+    this over with.
+
+can't:  this word occured 2 times
+    can't be happening. This isn't happening.
+    can't do this!
+
+happening.:  this word occured 2 times
+    happening. This isn't happening.
+    happening.
+
+This:  this word occured 3 times
+    This isn't happening.
+    This is Helgen. I used to be sweet on a girl from here. Wonder if Vilod
+    This is a mistake!
+
+isn't:  this word occured 1 times
+    isn't happening.
+
+what:  this word occured 1 times
+    what village are you from, horse thief?
+
+village:  this word occured 2 times
+    village are you from, horse thief?
+    village of Helgen. A soldier calls out to the lead wagon.]
+
+from,:  this word occured 1 times
+    from, horse thief?
+
+thief?:  this word occured 1 times
+    thief?
+
+Why:  this word occured 3 times
+    Why do you care?
+    Why are they stopping?
+    Why do you think? End of the line. Let's go. Shouldn't keep the gods
+
+do:  this word occured 4 times
+    do you care?
+    do
+    do you think? End of the line. Let's go. Shouldn't keep the gods
+    do this!
+
+care?:  this word occured 1 times
+    care?
+
+A:  this word occured 2 times
+    A Nord's last thoughts should be of home.
+    A soldier calls out to the lead wagon.]
+
+Nord's:  this word occured 1 times
+    Nord's last thoughts should be of home.
+
+last:  this word occured 1 times
+    last thoughts should be of home.
+
+thoughts:  this word occured 1 times
+    thoughts should be of home.
+
+home.:  this word occured 1 times
+    home.
+
+Rorikstead.:  this word occured 3 times
+    Rorikstead. I'm...I'm from Rorikstead.
+    Rorikstead.
+    Rorikstead.
+
+I'm...I'm:  this word occured 1 times
+    I'm...I'm from Rorikstead.
+
+from:  this word occured 2 times
+    from Rorikstead.
+    from here. Wonder if Vilod
+
+[They:  this word occured 1 times
+    [They approach the village of Helgen. A soldier calls out to the lead wagon.]
+
+approach:  this word occured 1 times
+    approach the village of Helgen. A soldier calls out to the lead wagon.]
+
+Helgen.:  this word occured 2 times
+    Helgen. A soldier calls out to the lead wagon.]
+    Helgen. I used to be sweet on a girl from here. Wonder if Vilod
+
+soldier:  this word occured 1 times
+    soldier calls out to the lead wagon.]
+
+calls:  this word occured 1 times
+    calls out to the lead wagon.]
+
+out:  this word occured 1 times
+    out to the lead wagon.]
+
+lead:  this word occured 1 times
+    lead wagon.]
+
+wagon.]:  this word occured 1 times
+    wagon.]
+
+General:  this word occured 3 times
+    General Tullius, sir! The headsman is waiting!
+    General Tullius: Good. Let's get this over with.
+    General Tullius the Military Governor. And it looks like
+
+Tullius,:  this word occured 1 times
+    Tullius, sir! The headsman is waiting!
+
+sir!:  this word occured 1 times
+    sir! The headsman is waiting!
+
+headsman:  this word occured 1 times
+    headsman is waiting!
+
+is:  this word occured 5 times
+    is waiting!
+    is Helgen. I used to be sweet on a girl from here. Wonder if Vilod
+    is still making that mead with juniper berries mixed in. Funny...when I
+    is a mistake!
+    is downed with one bowshot.]
+
+waiting!:  this word occured 1 times
+    waiting!
+
+Tullius::  this word occured 1 times
+    Tullius: Good. Let's get this over with.
+
+Good.:  this word occured 1 times
+    Good. Let's get this over with.
+
+Let's:  this word occured 2 times
+    Let's get this over with.
+    Let's go. Shouldn't keep the gods
+
+get:  this word occured 1 times
+    get this over with.
+
+with.:  this word occured 1 times
+    with.
+
+Shor,:  this word occured 1 times
+    Shor, Mara, Dibella, Kynareth, Akatosh. Divines, please help me.
+
+Mara,:  this word occured 1 times
+    Mara, Dibella, Kynareth, Akatosh. Divines, please help me.
+
+Dibella,:  this word occured 1 times
+    Dibella, Kynareth, Akatosh. Divines, please help me.
+
+Kynareth,:  this word occured 1 times
+    Kynareth, Akatosh. Divines, please help me.
+
+Akatosh.:  this word occured 1 times
+    Akatosh. Divines, please help me.
+
+Divines,:  this word occured 1 times
+    Divines, please help me.
+
+please:  this word occured 1 times
+    please help me.
+
+help:  this word occured 1 times
+    help me.
+
+me.:  this word occured 1 times
+    me.
+
+Look:  this word occured 1 times
+    Look at him, General Tullius the Military Governor. And it looks like
+
+him,:  this word occured 1 times
+    him, General Tullius the Military Governor. And it looks like
+
+Tullius:  this word occured 1 times
+    Tullius the Military Governor. And it looks like
+
+Military:  this word occured 1 times
+    Military Governor. And it looks like
+
+Governor.:  this word occured 1 times
+    Governor. And it looks like
+
+it:  this word occured 1 times
+    it looks like
+
+like:  this word occured 2 times
+    like
+    like running?
+
+Thalmor:  this word occured 1 times
+    Thalmor are with him. Damn elves. I bet they had something to do
+
+him.:  this word occured 1 times
+    him. Damn elves. I bet they had something to do
+
+elves.:  this word occured 1 times
+    elves. I bet they had something to do
+
+bet:  this word occured 1 times
+    bet they had something to do
+
+had:  this word occured 1 times
+    had something to do
+
+something:  this word occured 1 times
+    something to do
+
+this.:  this word occured 1 times
+    this. This is Helgen. I used to be sweet on a girl from here. Wonder if Vilod
+
+used:  this word occured 2 times
+    used to be sweet on a girl from here. Wonder if Vilod
+    used to make me feel so safe.
+
+sweet:  this word occured 1 times
+    sweet on a girl from here. Wonder if Vilod
+
+on:  this word occured 1 times
+    on a girl from here. Wonder if Vilod
+
+a:  this word occured 7 times
+    a girl from here. Wonder if Vilod
+    a boy, Imperial walls and towers used to make me feel so safe.
+    a mistake!
+    a time!
+    a rebel! You can't do this!
+    a break for it.]
+    a race-related remark.]
+
+girl:  this word occured 1 times
+    girl from here. Wonder if Vilod
+
+Wonder:  this word occured 1 times
+    Wonder if Vilod
+
+Vilod:  this word occured 1 times
+    Vilod
+
+still:  this word occured 1 times
+    still making that mead with juniper berries mixed in. Funny...when I
+
+making:  this word occured 1 times
+    making that mead with juniper berries mixed in. Funny...when I
+
+mead:  this word occured 1 times
+    mead with juniper berries mixed in. Funny...when I
+
+juniper:  this word occured 1 times
+    juniper berries mixed in. Funny...when I
+
+berries:  this word occured 1 times
+    berries mixed in. Funny...when I
+
+mixed:  this word occured 1 times
+    mixed in. Funny...when I
+
+in.:  this word occured 1 times
+    in. Funny...when I
+
+Funny...when:  this word occured 1 times
+    Funny...when I
+
+boy,:  this word occured 1 times
+    boy, Imperial walls and towers used to make me feel so safe.
+
+walls:  this word occured 1 times
+    walls and towers used to make me feel so safe.
+
+towers:  this word occured 1 times
+     towers used to make me feel so safe.
+
+make:  this word occured 1 times
+    make me feel so safe.
+
+feel:  this word occured 2 times
+    feel so safe.
+    feel like running?
+
+so:  this word occured 1 times
+    so safe.
+
+safe.:  this word occured 1 times
+    safe.
+
+[A:  this word occured 1 times
+    [A man and son watch the prisoners pull into town.]
+
+man:  this word occured 1 times
+    man and son watch the prisoners pull into town.]
+
+son:  this word occured 1 times
+     son watch the prisoners pull into town.]
+
+watch:  this word occured 2 times
+    watch the prisoners pull into town.]
+    watch the soldiers.
+
+prisoners:  this word occured 2 times
+    prisoners pull into town.]
+    prisoners start jumping out.]
+
+pull:  this word occured 1 times
+    pull into town.]
+
+town.]:  this word occured 1 times
+    town.]
+
+Haming::  this word occured 2 times
+    Haming: Who are they, daddy? Where are they going?
+    Haming: Why? I want to watch the soldiers.
+
+Who:  this word occured 2 times
+    Who are they, daddy? Where are they going?
+    Who are you?
+
+they,:  this word occured 1 times
+    they, daddy? Where are they going?
+
+daddy?:  this word occured 1 times
+    daddy? Where are they going?
+
+Where:  this word occured 1 times
+    Where are they going?
+
+going?:  this word occured 1 times
+    going?
+
+Torolf::  this word occured 2 times
+    Torolf: You need to go inside, little cub.
+    Torolf: Inside the house. Now.
+
+need:  this word occured 1 times
+    need to go inside, little cub.
+
+go:  this word occured 1 times
+    go inside, little cub.
+
+inside,:  this word occured 1 times
+    inside, little cub.
+
+little:  this word occured 1 times
+    little cub.
+
+cub.:  this word occured 1 times
+    cub.
+
+Why?:  this word occured 1 times
+    Why? I want to watch the soldiers.
+
+want:  this word occured 1 times
+    want to watch the soldiers.
+
+soldiers.:  this word occured 1 times
+    soldiers.
+
+Inside:  this word occured 1 times
+    Inside the house. Now.
+
+house.:  this word occured 1 times
+    house. Now.
+
+Now.:  this word occured 1 times
+    Now.
+
+[The:  this word occured 2 times
+    [The wagon stops near the chopping block.]
+    [The player picks his/her character, prompting a race-related remark.]
+
+wagon:  this word occured 1 times
+    wagon stops near the chopping block.]
+
+stops:  this word occured 1 times
+    stops near the chopping block.]
+
+near:  this word occured 1 times
+    near the chopping block.]
+
+chopping:  this word occured 1 times
+    chopping block.]
+
+block.]:  this word occured 1 times
+    block.]
+
+Whoa.:  this word occured 1 times
+    Whoa.
+
+stopping?:  this word occured 1 times
+    stopping?
+
+think?:  this word occured 1 times
+    think? End of the line. Let's go. Shouldn't keep the gods
+
+End:  this word occured 1 times
+    End of the line. Let's go. Shouldn't keep the gods
+
+line.:  this word occured 1 times
+    line. Let's go. Shouldn't keep the gods
+
+go.:  this word occured 1 times
+    go. Shouldn't keep the gods
+
+Shouldn't:  this word occured 1 times
+    Shouldn't keep the gods
+
+keep:  this word occured 1 times
+    keep the gods
+
+gods:  this word occured 1 times
+    gods
+
+waiting:  this word occured 1 times
+    waiting for us.
+
+us.:  this word occured 1 times
+    us.
+
+No!:  this word occured 1 times
+    No! Wait! We're not rebels!
+
+Wait!:  this word occured 1 times
+    Wait! We're not rebels!
+
+not:  this word occured 3 times
+    not rebels!
+    not a rebel! You can't do this!
+    not going to kill me!
+
+rebels!:  this word occured 1 times
+    rebels!
+
+Face:  this word occured 1 times
+    Face your death with some courage, thief.
+
+death:  this word occured 1 times
+    death with some courage, thief.
+
+some:  this word occured 1 times
+    some courage, thief.
+
+courage,:  this word occured 1 times
+    courage, thief.
+
+[Under:  this word occured 1 times
+    [Under the Imperials' watchful eye, the prisoners start jumping out.]
+
+Imperials':  this word occured 1 times
+    Imperials' watchful eye, the prisoners start jumping out.]
+
+watchful:  this word occured 1 times
+    watchful eye, the prisoners start jumping out.]
+
+eye,:  this word occured 1 times
+    eye, the prisoners start jumping out.]
+
+start:  this word occured 1 times
+    start jumping out.]
+
+jumping:  this word occured 1 times
+    jumping out.]
+
+out.]:  this word occured 1 times
+    out.]
+
+You've:  this word occured 1 times
+    You've got to tell them! We weren't with you! This is a mistake!
+
+got:  this word occured 1 times
+    got to tell them! We weren't with you! This is a mistake!
+
+tell:  this word occured 1 times
+    tell them! We weren't with you! This is a mistake!
+
+them!:  this word occured 1 times
+    them! We weren't with you! This is a mistake!
+
+We:  this word occured 1 times
+    We weren't with you! This is a mistake!
+
+weren't:  this word occured 1 times
+    weren't with you! This is a mistake!
+
+you!:  this word occured 1 times
+    you! This is a mistake!
+
+mistake!:  this word occured 1 times
+    mistake!
+
+Captain::  this word occured 4 times
+    Captain: Step toward the block when we call your name. One at a time!
+    Captain: Halt!
+    Captain: Archers!
+    Captain: Anyone else feel like running?
+
+Step:  this word occured 2 times
+    Step toward the block when we call your name. One at a time!
+    Step forward. Who are you?
+
+toward:  this word occured 1 times
+    toward the block when we call your name. One at a time!
+
+block:  this word occured 1 times
+    block when we call your name. One at a time!
+
+when:  this word occured 1 times
+    when we call your name. One at a time!
+
+call:  this word occured 1 times
+    call your name. One at a time!
+
+name.:  this word occured 1 times
+    name. One at a time!
+
+One:  this word occured 1 times
+    One at a time!
+
+time!:  this word occured 1 times
+    time!
+
+loves:  this word occured 1 times
+    loves their damn lists.
+
+their:  this word occured 1 times
+    their damn lists.
+
+damn:  this word occured 1 times
+    damn lists.
+
+lists.:  this word occured 1 times
+    lists.
+
+Hadvar::  this word occured 3 times
+    Hadvar: Ulfric Stormcloak. Jarl of Windhelm.
+    Hadvar: Ralof of Riverwood. Lokir of Rorikstead.
+    Hadvar: Wait, you there. Step forward. Who are you?
+
+Stormcloak.:  this word occured 1 times
+    Stormcloak. Jarl of Windhelm.
+
+Windhelm.:  this word occured 1 times
+    Windhelm.
+
+It:  this word occured 1 times
+    It has been an honor, Jarl Ulfric!
+
+has:  this word occured 1 times
+    has been an honor, Jarl Ulfric!
+
+an:  this word occured 1 times
+    an honor, Jarl Ulfric!
+
+honor,:  this word occured 1 times
+    honor, Jarl Ulfric!
+
+Ulfric!:  this word occured 1 times
+    Ulfric!
+
+Ralof:  this word occured 1 times
+    Ralof of Riverwood. Lokir of Rorikstead.
+
+Riverwood.:  this word occured 1 times
+    Riverwood. Lokir of Rorikstead.
+
+Lokir:  this word occured 1 times
+    Lokir of Rorikstead.
+
+I'm:  this word occured 1 times
+    I'm not a rebel! You can't do this!
+
+rebel!:  this word occured 1 times
+    rebel! You can't do this!
+
+this!:  this word occured 1 times
+    this!
+
+[He:  this word occured 1 times
+    [He makes a break for it.]
+
+makes:  this word occured 1 times
+    makes a break for it.]
+
+break:  this word occured 1 times
+    break for it.]
+
+it.]:  this word occured 1 times
+    it.]
+
+Halt!:  this word occured 1 times
+    Halt!
+
+going:  this word occured 1 times
+    going to kill me!
+
+kill:  this word occured 1 times
+    kill me!
+
+me!:  this word occured 1 times
+    me!
+
+Archers!:  this word occured 1 times
+    Archers!
+
+downed:  this word occured 1 times
+    downed with one bowshot.]
+
+one:  this word occured 1 times
+    one bowshot.]
+
+bowshot.]:  this word occured 1 times
+    bowshot.]
+
+Anyone:  this word occured 1 times
+    Anyone else feel like running?
+
+else:  this word occured 1 times
+    else feel like running?
+
+running?:  this word occured 1 times
+    running?
+
+Wait,:  this word occured 1 times
+    Wait, you there. Step forward. Who are you?
+
+forward.:  this word occured 1 times
+    forward. Who are you?
+
+you?:  this word occured 1 times
+    you?
+
+player:  this word occured 1 times
+    player picks his/her character, prompting a race-related remark.]
+
+picks:  this word occured 1 times
+    picks his/her character, prompting a race-related remark.]
+
+his/her:  this word occured 1 times
+    his/her character, prompting a race-related remark.]
+
+character,:  this word occured 1 times
+    character, prompting a race-related remark.]
+
+prompting:  this word occured 1 times
+    prompting a race-related remark.]
+
+race-related:  this word occured 1 times
+    race-related remark.]
+
+remark.]:  this word occured 1 times
+    remark.]
+
